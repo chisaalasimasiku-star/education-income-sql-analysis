@@ -1,0 +1,10 @@
+This project uses a structured dataset containing individual-level records on education, employment status, and monthly income.
+  
+The primary table, "people", includes:
+- person_id: unique identifier
+- education_level: highest level of education attained
+- employment_status: current employment status
+- monthly_income: reported monthly income
+  
+The dataset was validated through schema inspection and record sampling prior to analysis.
+Raw data is not included in this repository.

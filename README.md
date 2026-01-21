@@ -1,6 +1,6 @@
 Education and Income Analysis (SQL)
 Project Overview
-This project explores the relationship between educational attainment and monthly income using SQL. The analysis focuses on demonstrating core data analysis techniques—aggregation, joins, conditional logic, and post-aggregation filtering—while producing interpretable, decision-oriented insights.
+This project explores the relationship between educational attainment and monthly income using SQL. The analysis focuses on demonstrating core data analysis techniques—aggregation, joins, conditional logic, and post-aggregation filtering—while producing interpretable, decision-oriented insights. 
 The project was designed as a proof of SQL competency, with query structures that reflect real-world, production-style databases rather than purely academic examples.
 Objective
 To analyse how income outcomes vary across education levels and to demonstrate practical SQL skills commonly required in data analyst and business analyst roles.
